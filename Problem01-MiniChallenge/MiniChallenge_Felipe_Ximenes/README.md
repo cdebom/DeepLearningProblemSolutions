@@ -56,7 +56,7 @@ python train_dnn_scratch.py
 
 Abaixo segue o gráfico do treinamento obtido.
 
-![Training](/assets/train.png)
+![Training](https://github.com/cdebom/DeepLearningProblemsSolutions/blob/master/Problem01-MiniChallenge/MiniChallenge_Felipe_Ximenes/assets/train.png)
 
 #### Avaliar rede
 
@@ -72,5 +72,5 @@ python roc_curve.py
 
 Abaixo segue a ROC obtida após o treinamento.
 
-![ROC](/assets/roc.png)
+![ROC](https://github.com/cdebom/DeepLearningProblemsSolutions/blob/master/Problem01-MiniChallenge/MiniChallenge_Felipe_Ximenes/assets/roc.png)
 
