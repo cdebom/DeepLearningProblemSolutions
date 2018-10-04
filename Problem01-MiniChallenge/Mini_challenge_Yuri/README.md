@@ -33,4 +33,4 @@ AUC parameter class 2: 0.6428085056346791+-7.136608033805104e-15
 
 ## Acknowledgments
 
-* Thanks to Prof. Clecio for discussions, suggestions and for the MC simulations data used. 
+* Thanks to Prof. Clecio for discussions and suggestions. 
