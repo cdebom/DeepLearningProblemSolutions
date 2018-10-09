@@ -20,7 +20,8 @@ ROC CURVE
 
 Acc and Acc_val curves (with and without dropout between the layers):
 
-![img2](https://user-images.githubusercontent.com/37218817/46364913-8622a900-c64d-11e8-80ea-1c4e38f59c03.png)
+![accfig](https://user-images.githubusercontent.com/37218817/46689170-9dc1da80-cbd5-11e8-8afb-67d67cbc4c8e.png)
+
 
 
 AUC parameter: 0.6797739827404218+-1.0051387222257235e-13
