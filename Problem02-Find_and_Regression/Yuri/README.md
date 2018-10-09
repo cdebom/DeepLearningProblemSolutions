@@ -25,7 +25,7 @@ Acc and Acc_val curves (with and without dropout between the layers):
 
 
 
-AUC parameter: 0.6797739827404218+-1.0051387222257235e-13
+AUC parameter: 0.769
 
 
 ```
