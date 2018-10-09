@@ -14,9 +14,10 @@ Object localization:
 ![objloc](https://user-images.githubusercontent.com/37218817/46689110-766b0d80-cbd5-11e8-9d0e-9b474adc135a.png)
 
 
-ROC CURVE 
+Completeness X dR CURVE 
 
-![img1](https://user-images.githubusercontent.com/37218817/46364880-6f7c5200-c64d-11e8-9fa0-ffbf53f30b7d.png)
+![auc2](https://user-images.githubusercontent.com/37218817/46689242-c944c500-cbd5-11e8-85e0-38c7ac91a5db.jpg)
+
 
 Acc and Acc_val curves (with and without dropout between the layers):
 
