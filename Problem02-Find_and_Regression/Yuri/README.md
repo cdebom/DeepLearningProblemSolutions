@@ -9,6 +9,11 @@ Here I build a non-linear regression in order to look at geological images and l
 
 ## Results
 
+Object localization:
+
+![objloc](https://user-images.githubusercontent.com/37218817/46689110-766b0d80-cbd5-11e8-9d0e-9b474adc135a.png)
+
+
 ROC CURVE 
 
 ![img1](https://user-images.githubusercontent.com/37218817/46364880-6f7c5200-c64d-11e8-9fa0-ffbf53f30b7d.png)
