@@ -5,7 +5,7 @@ Regression for object localization from geo_images using Deep learning tools (CN
 
 ## ABSTRACT
 
-Here I build a non-linear regression in order to look at geological images and localizate objects inside them.
+Here I build a non-linear regression in order to look at geological images and localize objects inside them.
 
 ## Results
 
